@@ -1,0 +1,15 @@
+Node.js is an open-source, server-side JavaScript runtime environment that allows you to run JavaScript code on the server. Traditionally, JavaScript was primarily used in web browsers to make web pages interactive. Node.js extends JavaScript's capabilities by enabling it to be used for server-side scripting, allowing developers to build and run server-side applications using JavaScript.
+
+Key features of Node.js include:
+
+Non-blocking I/O: Node.js uses an event-driven, non-blocking I/O model. This means that it can handle many connections simultaneously without waiting for one to complete before processing another. This makes Node.js particularly well-suited for applications that require real-time interactions or need to handle a large number of concurrent connections.
+
+Asynchronous Programming: Node.js encourages asynchronous programming patterns, where tasks are executed concurrently and callbacks or promises are used to handle the results once they're available. This helps in managing I/O-bound operations efficiently and prevents the server from becoming unresponsive while waiting for slow operations to complete.
+
+Single Language: Using JavaScript for both client-side and server-side development simplifies development for full-stack developers, as they only need to learn one language for both ends of the application.
+
+NPM (Node Package Manager): Node.js has a vast ecosystem of third-party libraries and modules available through NPM. This package manager makes it easy to install, manage, and share code packages, which accelerates development and reduces the need to reinvent the wheel for common tasks.
+
+Scalability: Node.js is designed to be lightweight and efficient, making it well-suited for building scalable applications. Its non-blocking architecture allows it to handle a large number of concurrent connections with relatively low resource usage.
+
+Community and Support: Node.js has a large and active community of developers, which means you can find plenty of resources, tutorials, and support when working with Node.js.
